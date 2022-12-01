@@ -1,0 +1,25 @@
+@media (max-width: 1440px) {
+    .active{
+        width: 90%;
+    }
+
+}
+@media (max-width: 1200px) {
+    #header{
+
+    }
+ .header-a{
+     position: absolute;
+     top: 70px;
+     left: 818px;
+ }
+ }
+
+@media (max-width: 400px) {
+    .header-a {
+        position: absolute;
+        top: 70px;
+        left: 682px;
+    }
+
+}
